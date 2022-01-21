@@ -1,0 +1,23 @@
+h1{
+    color: #470D21;
+   font-size: 64px;
+    
+    text-align: center;
+}
+body{
+    background-color: #e6b187;
+    text-align: center;
+}
+img{
+ text-align: center;
+    height:30%;
+   
+    width:30%;
+ 
+ }
+ p{
+     color: #9C0F48;
+     font-size: 45px;
+     font-family: 'Roboto', sans-serif;
+ }
+
